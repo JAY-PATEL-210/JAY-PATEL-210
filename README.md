@@ -1,7 +1,7 @@
 <h1 align="center">Jay Patel</h1>
 
 <p align="center">
-  <strong>Computer Engineering Student • Full-Stack Developer • AI Enthusiast</strong>
+  <strong>Computer Engineering Student | Full-Stack Developer | AI & ML Enthusiast</strong>
 </p>
 
 <p align="center">
@@ -9,19 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jay-patel-87a8453b7">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jay708208@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/JAY-PATEL-210">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Full-Stack+Web+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Projects+%26+Learning+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Full-Stack+Web+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Projects;Always+Learning+%26+Improving" alt="Typing SVG" />
 </p>
 
 ---
@@ -32,7 +20,7 @@
 
 💻 I enjoy building practical applications using **C, C++, JavaScript, PHP, MySQL, React, Node.js, and Python**.
 
-🤖 I'm currently exploring **Artificial Intelligence, Machine Learning, and full-stack development**.
+🤖 I'm currently exploring **Artificial Intelligence, Machine Learning, and Full-Stack Development**.
 
 🏆 **Top 10 Finalist — LDCE Hackathon 2026**
 
@@ -73,7 +61,7 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-### Tools & Platforms
+### Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -95,7 +83,7 @@ An AI-powered governance and compliance platform designed to help organizations 
 - Regulatory impact analysis
 - Audit report generation
 - Interactive AI compliance advisor
-- Support for frameworks including **EU AI Act, NIST AI RMF, ISO 42001, GDPR, and HIPAA**
+- Support for EU AI Act, NIST AI RMF, ISO 42001, GDPR, and HIPAA
 
 **Tech Stack**
 
@@ -105,14 +93,14 @@ An AI-powered governance and compliance platform designed to help organizations 
 
 ### 📈 [Predictive Maintenance Platform](https://github.com/JAY-PATEL-210/Hackout_26)
 
-A full-stack predictive maintenance platform developed for a hackathon to help monitor equipment health and identify potential maintenance requirements.
+A full-stack predictive maintenance platform developed for a hackathon to monitor equipment health and identify potential maintenance requirements.
 
 **Key Features**
 - Machine learning-based predictions
 - Equipment health monitoring
 - Interactive analytics dashboard
 - Visual prediction data
-- FastAPI-based backend
+- FastAPI backend
 
 **Tech Stack**
 
@@ -151,9 +139,8 @@ An academic monitoring and early-intervention platform that identifies students 
 ## 🏆 Achievements
 
 - 🥇 **Top 10 Finalist — LDCE Hackathon 2026**
-  - Built **AcadRisk AI**, an early academic risk detection platform.
-- 💻 Participated in competitive programming and hackathon events.
-- 🚀 Experienced in building functional prototypes under hackathon time constraints.
+- 💻 Participated in competitive programming and hackathon events
+- 🚀 Built functional prototypes under hackathon time constraints
 
 ---
 
@@ -168,30 +155,19 @@ An academic monitoring and early-intervention platform that identifies students 
 
 ---
 
-## 🎯 Areas of Interest
-
-
-Full-Stack Development
-Artificial Intelligence & Machine Learning
-Backend Development
-Data Structures & Algorithms
-Database Systems
-Hackathons & Problem Solving
-```
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jay-patel-87a8453b7">
-    <img src="https://img.shields.io/badge/LinkedIn-Jay%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:jay708208@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jay708208%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://github.com/JAY-PATEL-210">
-    <img src="https://img.shields.io/badge/GitHub-JAY--PATEL--210-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
